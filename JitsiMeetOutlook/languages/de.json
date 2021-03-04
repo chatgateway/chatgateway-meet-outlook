@@ -1,10 +1,10 @@
 {
   "calendarRibbonButton": {
-    "buttonNewJitsiMeeting": "Neues Jitsi-Meeting"
+    "buttonNewJitsiMeeting": "Neues Chatgateway-Meeting"
   },
 
   "appointmentItem": {
-    "textBodyMessage": "Treten Sie hier dem Meeting bei: "
+    "textBodyMessage": "Hier gehts direkt zum Online-Meeting: "
   },
 
   "appointmentRibbonGroup": {
